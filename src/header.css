@@ -1,0 +1,28 @@
+html {
+    box-sizing: content-box;
+}
+
+/* seleccionamos todos los elementos hijos del html y le aplicamos la herencia del anterior */
+html * {
+    box-sizing: inherit;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    padding: 22px;
+    box-shadow: 1px 2px 5px rgb(0, 0, 0, 0.3);
+
+    /* para que la sombra no desaparezca si añadimos más elementos debajo del header,
+    ponemos el z index en 2 (por defecto está en 1) y position relative (si no, no funciona) */
+    z-index: 2;
+    position: relative;
+}
+
+header input {
+    outline: none; /* asi no se muestra el selector azul por defecto */
+    border: solid 1px #eee;
+    padding: 10px 5px; /* vertical y horizontal */
+    border-radius: 4px;
+}
