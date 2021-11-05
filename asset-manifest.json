@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/buscadorImagenesReactJS/static/css/main.d0dc389c.chunk.css",
+    "main.js": "/buscadorImagenesReactJS/static/js/main.ebf335c1.chunk.js",
+    "main.js.map": "/buscadorImagenesReactJS/static/js/main.ebf335c1.chunk.js.map",
+    "runtime-main.js": "/buscadorImagenesReactJS/static/js/runtime-main.a8f75cc0.js",
+    "runtime-main.js.map": "/buscadorImagenesReactJS/static/js/runtime-main.a8f75cc0.js.map",
+    "static/js/2.456d90ba.chunk.js": "/buscadorImagenesReactJS/static/js/2.456d90ba.chunk.js",
+    "static/js/2.456d90ba.chunk.js.map": "/buscadorImagenesReactJS/static/js/2.456d90ba.chunk.js.map",
+    "static/js/3.c97bdc67.chunk.js": "/buscadorImagenesReactJS/static/js/3.c97bdc67.chunk.js",
+    "static/js/3.c97bdc67.chunk.js.map": "/buscadorImagenesReactJS/static/js/3.c97bdc67.chunk.js.map",
+    "index.html": "/buscadorImagenesReactJS/index.html",
+    "static/css/main.d0dc389c.chunk.css.map": "/buscadorImagenesReactJS/static/css/main.d0dc389c.chunk.css.map",
+    "static/js/2.456d90ba.chunk.js.LICENSE.txt": "/buscadorImagenesReactJS/static/js/2.456d90ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8f75cc0.js",
+    "static/js/2.456d90ba.chunk.js",
+    "static/css/main.d0dc389c.chunk.css",
+    "static/js/main.ebf335c1.chunk.js"
+  ]
+}
